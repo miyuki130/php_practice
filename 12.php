@@ -7,12 +7,15 @@ if ($name="miyuki"){
 } else {
     echo $name."ではありません";
 }
+echo "\n";
 
 //2
+$total = 0;
 for ($i=1; $i<=10000; $i++){
     $total += $i;
 }
 echo $total;
+echo "\n";
 
 //3
 $fruits=array("orange","apple","cherry","banana","grape");
