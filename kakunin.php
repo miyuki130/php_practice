@@ -69,10 +69,7 @@ echo "\n";
 
 //タイムゾーンを指定
 date_default_timezone_set('Asia/Tokyo');
-echo date("Y/m/d");
-echo "\n";
-
-//タイムゾーンを指定
+e
 date_default_timezone_set('Asia/Tokyo');
-echo date("Y-m-d H:i:s");
-echo "\n";
+ech　
+
